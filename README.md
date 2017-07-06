@@ -1,4 +1,4 @@
-# Camp Crame High School MIS
+# Camp Crame High School Management Information System (MIS)
 Online Management Information System
 
 ## Credits
