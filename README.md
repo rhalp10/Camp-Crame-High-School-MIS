@@ -6,7 +6,7 @@ Online Management Information System
 - Romel Postrano for the master source code of this system
 
 ## License (MIT)
-Copyright (c) 2010-2016 Rhalp Darren Cabrera, https://github.com/rhalp10/General-Services-Office-System
+Copyright (c) 2010-2016 Rhalp Darren Cabrera, https://github.com/rhalp10/Camp-Crame-High-School-MIS
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
