@@ -1,0 +1,15 @@
+<marquee scrolldelay="120">
+WELCOME TO OUR OFFICIAL HOME PAGE
+			<img src="images/separator.jpg" width="50" height="10">		
+			<img src="images/separator.jpg" width="50" height="10">
+			CAMP CRAME HIGH SCHOOL
+			<img src="images/separator.jpg" width="50" height="10">		
+			<img src="images/separator.jpg" width="50" height="10">
+			QUEZON CITY CAMPUS
+			<img src="images/separator.jpg" width="50" height="10">
+			<img src="images/separator.jpg" width="50" height="10">
+			WHERE GREAT CAREER BEGINS			
+			<img src="images/separator.jpg" width="50" height="10">
+			<img src="images/separator.jpg" width="50" height="10">
+			<?php echo(date("F d, Y - l")); ?>
+</marquee>

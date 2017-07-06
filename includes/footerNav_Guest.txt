@@ -1,0 +1,9 @@
+<a href="index_guest.php" >HOME</a>
+		|
+		<a href="admission_guest.php">ADMISSION <?php require_once('myFunctions.php'); displayReqStat($uid,"preregmaster");?></a>
+		|
+		<a href="view_all_announcement.php" >ANNOUNCEMENTS</a>
+		|
+		<a href="account_settings.php" >SETTINGS</a>
+		|
+		<a href="logout.php" >LOGOUT</a>

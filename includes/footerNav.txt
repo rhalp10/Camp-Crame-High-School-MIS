@@ -1,0 +1,7 @@
+<a href="Index.php" >HOME</a>
+		|
+		<a href="register.php" >ACCOUNT REGISTRATION</a>
+		|
+		<a href="downloads.php" >DOWNLOADS</a>
+		|
+		<a href="aboutus.php" >ABOUT US</a>

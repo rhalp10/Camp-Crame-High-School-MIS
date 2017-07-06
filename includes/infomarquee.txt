@@ -1,0 +1,7 @@
+<marquee direction="up"  scrolldelay="225"  onmouseover="this.stop()" onmouseout="this.start()">
+				<br>
+				<p align="justify">
+				<?php require_once("schoolinfo.php");  displayActiveAnnouncement(); ?>
+				</p>
+</marquee>
+				
